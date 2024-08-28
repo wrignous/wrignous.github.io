@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://wrignous.github.io/sitemap.html.gz
+Sitemap: https://wrignous.github.io/app/sitemap.html.gz
+Sitemap: https://wrignous.github.io/assets/sitemap.html.gz
+Sitemap: https://wrignous.github.io/css/sitemap.html.gz
+Sitemap: https://wrignous.github.io/includes/sitemap.html.gz
+Sitemap: https://wrignous.github.io/item/sitemap.html.gz
+Sitemap: https://wrignous.github.io/src/sitemap.html.gz
